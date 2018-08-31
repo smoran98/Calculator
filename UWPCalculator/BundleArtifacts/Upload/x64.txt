@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\x64\Release\Upload\UWPCalculator_1.1.1.0_x64.appx
+SymbolPackage=C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\x64\Release\Upload\UWPCalculator_1.1.1.0\UWPCalculator_1.1.1.0_x64.appxsym

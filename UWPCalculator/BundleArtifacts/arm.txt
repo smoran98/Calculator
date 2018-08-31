@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\ARM\Release\UWPCalculator_1.1.1.0_ARM.appx
+SymbolPackage=C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\AppPackages\UWPCalculator_1.1.1.0_Test\UWPCalculator_1.1.1.0_ARM.appxsym
+ResourcePack=C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\ARM\Release\UWPCalculator_1.1.1.0_scale-100.appx
+ResourcePack=C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\ARM\Release\UWPCalculator_1.1.1.0_scale-125.appx
+ResourcePack=C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\ARM\Release\UWPCalculator_1.1.1.0_scale-150.appx
+ResourcePack=C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\ARM\Release\UWPCalculator_1.1.1.0_scale-400.appx

@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>0fae9e1c-9148-4e4b-92e0-ecfef85c13ae</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Administrator</PackageIdentityPublisher>
+    <PackageIdentityName>59daef69-1f34-419d-aabe-6d4a3dcd9744</PackageIdentityName>
+    <PackageIdentityPublisher>CN=84958DFF-A212-4B4D-B593-2C174F55323B</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
@@ -19,25 +19,25 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>01652BB366BE89A2414DAACDF5AE854A937925D22318C12A5E1CFD2CC76E9B4B</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>0fae9e1c-9148-4e4b-92e0-ecfef85c13ae_1.0.0.0_x86__75cr2b68sm664</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>0fae9e1c-9148-4e4b-92e0-ecfef85c13ae_75cr2b68sm664!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>0fae9e1c-9148-4e4b-92e0-ecfef85c13ae</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=Administrator</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredManifestChecksum>57776A8A9170DDD1A4D70A5E286DDBCEA98D7937E67169FFEE9C7263F5E030EC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8589nahmad.ShaneCalculator_1.1.1.0_x86__h1bmncdx6hfww</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8589nahmad.ShaneCalculator_h1bmncdx6hfww!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8589nahmad.ShaneCalculator</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=84958DFF-A212-4B4D-B593-2C174F55323B</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.1.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-29T19:18:28.850</Modified>
+      <Modified>2018-08-31T18:39:32.007</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\x86\Debug\UWPCalculator.exe">
       <PackagePath>entrypoint\UWPCalculator.exe</PackagePath>
-      <Modified>2018-08-29T19:18:27.891</Modified>
+      <Modified>2018-08-31T18:39:20.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -495,9 +495,324 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T22:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-08-29T18:58:13.274</Modified>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\6f681fe9301662fa7df7619b8b49ff88-calculator.png">
+      <PackagePath>Assets\6f681fe9301662fa7df7619b8b49ff88-calculator.png</PackagePath>
+      <Modified>2018-08-31T18:05:33.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.scale-100.png">
+      <PackagePath>Assets\AppList\AppList.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:12.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.scale-125.png">
+      <PackagePath>Assets\AppList\AppList.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:13.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.scale-150.png">
+      <PackagePath>Assets\AppList\AppList.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:15.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.scale-200.png">
+      <PackagePath>Assets\AppList\AppList.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:16.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.scale-400.png">
+      <PackagePath>Assets\AppList\AppList.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:17.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-16.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:53.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-16_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:34.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-20.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-20.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:00.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-20_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-20_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:41.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-24.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:35.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-256.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:58.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-256_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:39.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-30.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:01.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-30_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-30_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:42.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-32.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:55.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-32_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-32_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:37.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-36.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-36.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:02.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-36_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-36_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:43.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-40.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-40.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:04.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-40_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-40_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:45.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-48.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:57.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-48_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:38.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-60.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-60.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:05.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-60_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-60_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:46.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-64.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-64.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:06.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-64_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-64_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:47.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-72.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-72.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:08.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-72_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-72_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:48.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-80.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:09.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-80_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-80_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:50.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-96.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-96.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:10.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\AppList\AppList.targetsize-96_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-96_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:51.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Large\Large310x310Logo.scale-100.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:22.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Large\Large310x310Logo.scale-125.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:28.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Large\Large310x310Logo.scale-150.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:29.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Large\Large310x310Logo.scale-200.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:31.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Large\Large310x310Logo.scale-400.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:33.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Medium\Medium150x150Logo.scale-100.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:08.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Medium\Medium150x150Logo.scale-125.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:09.462</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Medium\Medium150x150Logo.scale-150.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:10.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Medium\Medium150x150Logo.scale-200.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:12.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Medium\Medium150x150Logo.scale-400.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:13.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Small\Small71x71Logo.scale-100.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:19:57.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Small\Small71x71Logo.scale-125.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:00.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Small\Small71x71Logo.scale-150.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:02.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Small\Small71x71Logo.scale-200.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:03.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Small\Small71x71Logo.scale-400.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:05.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\SplashScreen\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:19.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\SplashScreen\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:20.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\SplashScreen\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:22.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\SplashScreen\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:23.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\SplashScreen\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:25.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Store\StoreLogo.scale-100.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:27.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Store\StoreLogo.scale-125.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:28.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Store\StoreLogo.scale-150.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:30.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Store\StoreLogo.scale-200.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:31.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Store\StoreLogo.scale-400.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:21:33.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Wide\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:15.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Wide\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:15.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Wide\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:15.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Wide\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:15.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Wide\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-31T18:20:15.946</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -505,45 +820,43 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-25T16:34:52.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-25T16:34:52.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-25T16:34:52.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-25T16:34:52.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-25T16:34:52.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-25T16:34:52.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2018-08-29T18:58:13.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\x86\Debug\UWPCalculator.xr.xml">
       <PackagePath>UWPCalculator.xr.xml</PackagePath>
-      <Modified>2018-08-29T19:18:27.168</Modified>
+      <Modified>2018-08-31T18:39:18.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-08-29T19:18:27.515</Modified>
+      <Modified>2018-08-31T18:39:20.488</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-08-29T19:18:27.516</Modified>
+      <Modified>2018-08-31T18:39:20.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -552,11 +865,11 @@
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-29T19:07:38.709</Modified>
+      <Modified>2018-08-31T18:39:30.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\bin\x86\Debug\Core\UWPCalculator.exe">
       <PackagePath>UWPCalculator.exe</PackagePath>
-      <Modified>2018-08-29T19:18:28.845</Modified>
+      <Modified>2018-08-31T18:39:31.991</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

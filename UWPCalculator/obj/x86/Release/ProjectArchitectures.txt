@@ -1,0 +1,1 @@
+C:\Users\Administrator\source\repos\UWPCalculator\UWPCalculator\UWPCalculator.csproj;x86
